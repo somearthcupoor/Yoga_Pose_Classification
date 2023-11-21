@@ -1,6 +1,7 @@
 # Yoga_Pose_Classification
-<img src=”[[https://user-images.githubusercontent.com/53340896/284692846-b9575c4e-2f27-40e2-bca0-3970ae313476.png](https://user-images.githubusercontent.com/53340896/284692846-b9575c4e-2f27-40e2-bca0-3970ae313476.png)](https://github.com/somearthcupoor/Yoga_Pose_Classification/assets/53340896/3c4fd33b-aeed-4f46-afcd-df954885dfc8)" alt=”my banner”>
-
+![Yoga Pose Classification](https://github.com/somearthcupoor/Yoga_Pose_Classification/assets/53340896/2d0654aa-90df-4653-8883-8fb66e93fa68)
+<br />
 LINK TO DATASET:-  https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset
-
+<br />
 Machine learning lab project submission
+<br />
